@@ -37,7 +37,7 @@
 | 1 | 🇺🇸 美国 | 北美洲 | ✅ 已完成 | [查看](countries/north-america/united-states/) |
 | 2 | 🇨🇳 中国 | 亚洲 | ✅ 已完成 | [查看](countries/asia/china/) |
 | 3 | 🇷🇺 俄罗斯 | 欧亚 | ✅ 已完成 | [查看](countries/europe/russia/) |
-| 4 | 🇩🇪 德国 | 欧洲 | ⏳ 计划中 | — |
+| 4 | 🇩🇪 德国 | 欧洲 | ✅ 已完成 | [查看](countries/europe/germany/) |
 | 5 | 🇬🇧 英国 | 欧洲 | ⏳ 计划中 | — |
 | 6 | 🇯🇵 日本 | 亚洲 | ⏳ 计划中 | — |
 | 7 | 🇮🇳 印度 | 亚洲 | ⏳ 计划中 | — |
