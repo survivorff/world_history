@@ -41,7 +41,7 @@
 | 5 | 🇬🇧 英国 | 欧洲 | ✅ 已完成 | [查看](countries/europe/united-kingdom/) |
 | 6 | 🇯🇵 日本 | 亚洲 | ✅ 已完成 | [查看](countries/asia/japan/) |
 | 7 | 🇮🇳 印度 | 亚洲 | ✅ 已完成 | [查看](countries/asia/india/) |
-| 8 | 🇫🇷 法国 | 欧洲 | ⏳ 计划中 | — |
+| 8 | 🇫🇷 法国 | 欧洲 | ✅ 已完成 | [查看](countries/europe/france/) |
 
 ### 后续计划
 
@@ -65,15 +65,22 @@ world-knowledge-base/
 ├── templates/
 │   └── 国家介绍模板.md           # 统一模板
 └── countries/
-    └── north-america/
-        └── united-states/       # 美国
-            ├── README.md        # 速览页
-            ├── 01-地理.md
-            ├── 02-历史.md
-            ├── 03-政治.md
-            ├── 04-经济.md
-            ├── 05-文化与社会.md
-            └── 06-外交与军事.md
+    ├── north-america/
+    │   └── united-states/       # 美国
+    ├── europe/
+    │   ├── russia/              # 俄罗斯
+    │   ├── germany/             # 德国
+    │   ├── united-kingdom/      # 英国
+    │   └── france/              # 法国
+    └── asia/
+        ├── china/               # 中国
+        ├── japan/               # 日本
+        └── india/               # 印度
+
+# 每个国家目录下均包含：
+#   README.md（速览页）
+#   01-地理.md / 02-历史.md / 03-政治.md
+#   04-经济.md / 05-文化与社会.md / 06-外交与军事.md
 ```
 
 ## 🤝 参与贡献
