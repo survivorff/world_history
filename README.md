@@ -40,7 +40,7 @@
 | 4 | 🇩🇪 德国 | 欧洲 | ✅ 已完成 | [查看](countries/europe/germany/) |
 | 5 | 🇬🇧 英国 | 欧洲 | ✅ 已完成 | [查看](countries/europe/united-kingdom/) |
 | 6 | 🇯🇵 日本 | 亚洲 | ✅ 已完成 | [查看](countries/asia/japan/) |
-| 7 | 🇮🇳 印度 | 亚洲 | ⏳ 计划中 | — |
+| 7 | 🇮🇳 印度 | 亚洲 | ✅ 已完成 | [查看](countries/asia/india/) |
 | 8 | 🇫🇷 法国 | 欧洲 | ⏳ 计划中 | — |
 
 ### 后续计划
