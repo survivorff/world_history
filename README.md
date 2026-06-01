@@ -50,7 +50,7 @@
 | 9 | 🇧🇷 巴西 | 南美洲 | ✅ 已完成 | [查看](countries/south-america/brazil/) |
 | 10 | 🇨🇦 加拿大 | 北美洲 | ✅ 已完成 | [查看](countries/north-america/canada/) |
 | 11 | 🇮🇹 意大利 | 欧洲 | ✅ 已完成 | [查看](countries/europe/italy/) |
-| 12 | 🇰🇷 韩国 | 亚洲 | ⏳ 计划中 | — |
+| 12 | 🇰🇷 韩国 | 亚洲 | ✅ 已完成 | [查看](countries/asia/south-korea/) |
 | 13 | 🇦🇺 澳大利亚 | 大洋洲 | ⏳ 计划中 | — |
 | 14 | 🇸🇦 沙特阿拉伯 | 亚洲 | ⏳ 计划中 | — |
 | 15 | 🇹🇷 土耳其 | 欧亚 | ⏳ 计划中 | — |
