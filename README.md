@@ -56,7 +56,7 @@
 | 15 | 🇹🇷 土耳其 | 欧亚 | ✅ 已完成 | [查看](countries/europe/turkey/) |
 | 16 | 🇮🇩 印度尼西亚 | 亚洲 | ✅ 已完成 | [查看](countries/asia/indonesia/) |
 | 17 | 🇲🇽 墨西哥 | 北美洲 | ✅ 已完成 | [查看](countries/north-america/mexico/) |
-| 18 | 🇿🇦 南非 | 非洲 | ⏳ 计划中 | — |
+| 18 | 🇿🇦 南非 | 非洲 | ✅ 已完成 | [查看](countries/africa/south-africa/) |
 
 ### 后续计划
 
@@ -81,16 +81,29 @@ world-knowledge-base/
 │   └── 国家介绍模板.md           # 统一模板
 └── countries/
     ├── north-america/
-    │   └── united-states/       # 美国
+    │   ├── united-states/       # 美国
+    │   ├── canada/              # 加拿大
+    │   └── mexico/              # 墨西哥
+    ├── south-america/
+    │   └── brazil/              # 巴西
     ├── europe/
     │   ├── russia/              # 俄罗斯
     │   ├── germany/             # 德国
     │   ├── united-kingdom/      # 英国
-    │   └── france/              # 法国
-    └── asia/
-        ├── china/               # 中国
-        ├── japan/               # 日本
-        └── india/               # 印度
+    │   ├── france/              # 法国
+    │   ├── italy/               # 意大利
+    │   └── turkey/              # 土耳其
+    ├── asia/
+    │   ├── china/               # 中国
+    │   ├── japan/               # 日本
+    │   ├── india/               # 印度
+    │   ├── south-korea/         # 韩国
+    │   ├── saudi-arabia/        # 沙特阿拉伯
+    │   └── indonesia/           # 印度尼西亚
+    ├── oceania/
+    │   └── australia/           # 澳大利亚
+    └── africa/
+        └── south-africa/        # 南非
 
 # 每个国家目录下均包含：
 #   README.md（速览页）
