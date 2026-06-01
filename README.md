@@ -53,7 +53,7 @@
 | 12 | 🇰🇷 韩国 | 亚洲 | ✅ 已完成 | [查看](countries/asia/south-korea/) |
 | 13 | 🇦🇺 澳大利亚 | 大洋洲 | ✅ 已完成 | [查看](countries/oceania/australia/) |
 | 14 | 🇸🇦 沙特阿拉伯 | 亚洲 | ✅ 已完成 | [查看](countries/asia/saudi-arabia/) |
-| 15 | 🇹🇷 土耳其 | 欧亚 | ⏳ 计划中 | — |
+| 15 | 🇹🇷 土耳其 | 欧亚 | ✅ 已完成 | [查看](countries/europe/turkey/) |
 | 16 | 🇮🇩 印度尼西亚 | 亚洲 | ⏳ 计划中 | — |
 | 17 | 🇲🇽 墨西哥 | 北美洲 | ⏳ 计划中 | — |
 | 18 | 🇿🇦 南非 | 非洲 | ⏳ 计划中 | — |
